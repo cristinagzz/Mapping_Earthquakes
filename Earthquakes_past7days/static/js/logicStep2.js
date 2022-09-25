@@ -59,10 +59,10 @@ L.geoJSON(data, {
 
   // We turn each feature into a circleMarker on the map.
   
-  pointToLayer: function(feature, latlng) {
-              console.log(data);
-              return L.circleMarker(latlng);
-          },
+pointToLayer: function(feature, latlng) {
+            console.log(data);
+            return L.circleMarker(latlng);
+        },
         // We set the style for each circleMarker using our styleInfo function.
       style: styleInfo
       }).addTo(map);
