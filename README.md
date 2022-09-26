@@ -12,11 +12,12 @@ Used different map styles
 Change the line color, marker types and sizes
 Add pop ups with the info about the earthquakes.
 
-### Streets 
-![Mapping_Earthquakes/images/Streets.PNG]
+### Streets
+<img width="807" alt="Streets" src="https://user-images.githubusercontent.com/108194577/192172090-b99e1edd-7092-49e5-a333-83d027659bdc.PNG">
 
 ### Satellites
-![Mapping_Earthquakes/images/Satellites.PNG]
+<img width="810" alt="Satellites" src="https://user-images.githubusercontent.com/108194577/192172107-72be4ca6-a2fd-4183-ab95-5374435de46e.PNG">
 
 ### Dark View - Additional Map
-![Mapping_Earthquakes/images/DarkAdditional.PNG]
+<img width="811" alt="DarkAdditional" src="https://user-images.githubusercontent.com/108194577/192172116-627fd36d-f882-4cb4-b743-0d3f53f8a07f.PNG">
+
